@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_calc"
+            android:icon="@drawable/icon_gear_filter_black"
+            android:title="Kalkulasi" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/icon_history_black"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_gearlist"
+            android:icon="@drawable/icon_gear_black"
+            android:title="Gear List" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/icon_info_black"
+            android:title="About" />
+    </group>
+
+</menu>
